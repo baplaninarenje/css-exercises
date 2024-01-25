@@ -1,0 +1,14 @@
+.blackbcg-white,
+.yellowbcg {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.blackbcg-white {
+    background-color: #000000;
+    color: hsl(0, 0%, 100%);
+}
+
+.yellowbcg {
+    background-color: rgb(255, 255, 0);
+}
