@@ -1,0 +1,18 @@
+.odd {
+    background-color: rgba(248, 200, 208, 0.918);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.medium {
+    font-size: 24px;
+}
+
+.bold-green {
+    background-color: hsl(120, 45%, 79%);
+    font-weight: bold;
+}
+
+#big-blue {
+    color: #0000ff;
+    font-size: 36px;
+}
